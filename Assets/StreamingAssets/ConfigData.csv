@@ -1,0 +1,2 @@
+paddleMoveSpeed,ballForce,ballLifeSpan,minBallSpawn,maxBallSpawn,StandardPoints,BonusPoints,PickUpPoints,standardProb,bonusProb,pickUpProb,ballsLeft,freezeTime,speedDuration,speedValue
+12,6,100,25,26,15,40,25,60,20,20,5,1,1,2
